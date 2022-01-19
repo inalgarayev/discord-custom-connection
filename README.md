@@ -1,0 +1,2 @@
+# discord-custom-connection
+If you prefer to do it manually: Download the Python-Code/CustomConnections.py file Navigate to Discord in the browser to find your authorization token Using python, execute CustomConnections.py (make sure you installed requests eg: pip install requests) To remove, just change the script to DELETE instead of PUT, or just remove from Discord manually in your settings! Feel free to test other endpoints, "leaugeoflegends", "skype", and "battlenet" appear to work!
